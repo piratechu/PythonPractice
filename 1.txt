@@ -1,0 +1,12 @@
+Test Git hub
+1. git init
+sync project to local
+1. git clone git:github.com:****/.git # by ssh clone to local, R/W
+
+set global virable
+1. git config --global user.name 'your name'
+2. git config --global user.email 'your email'
+3. git config --list  # check your seeting 
+
+new porject submit to github
+
